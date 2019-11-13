@@ -251,8 +251,7 @@ ul{
   html, body {
     height: 100%;
     width: 100%;
-    min-width: 100%:
-
+    min-width: 100%;
 }
   @keyframes ripple {
     to {transform: scale(2.2); opacity: 0;}
